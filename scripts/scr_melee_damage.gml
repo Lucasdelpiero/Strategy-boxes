@@ -1,0 +1,1 @@
+targetEnemy.soldiers -= 1;

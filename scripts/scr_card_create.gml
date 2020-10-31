@@ -1,0 +1,16 @@
+image_angle = 270;
+card = noone;
+group = noone;
+cardOrdered = false;
+cardPreselected = false;
+cardSelected = false;
+color = c_white;
+sprite = spr_box;
+place = 0;
+xCenter = view_xview +  (obj_control.width / 12);
+yCenter = view_yview + obj_control.height - (obj_control.height / 12); 
+xScale = 1;
+yScale = 1;
+grid = 32;
+guiX = 100 + 100 * place;
+guiY = 100;
